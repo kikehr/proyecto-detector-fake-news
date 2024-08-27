@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "fakenewsproject"
+version = "0.1.0"
+description = ""
+authors = ["kikeherrera"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "y"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
